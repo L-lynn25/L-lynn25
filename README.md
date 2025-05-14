@@ -2,7 +2,7 @@
 
 Hello! I'm **Ladylynn Azobua**, a highly driven and results-oriented **Data Analyst** with a solid foundation in industrial chemistry and a strong passion for transforming raw data into actionable insights. With over **3 years of managerial and administrative experience** across the energy and manufacturing sectors, I bring a unique blend of analytical rigor, business acumen, and leadership.
 
-Currently transitioning fully into data analytics, I’ve honed my skills through **real-world projects** and **professional certifications** that focus on advanced proficiency in **Microsoft Excel**, **Power BI**, **SQL**, and **Python**. My background in industrial chemistry has equipped me with a scientific approach to problem-solving, while my management experience has sharpened my ability to communicate findings effectively and drive strategic decisions.
+Currently transitioning fully into data analytics, I have honed my skills through **real-world projects** and **professional certifications** that focus on advanced proficiency in **Microsoft Excel**, **Power BI**, **SQL**, and **Python**. My background in industrial chemistry has equipped me with a scientific approach to problem-solving, while my management experience has sharpened my ability to communicate findings effectively and drive strategic decisions.
 
 ---
 
